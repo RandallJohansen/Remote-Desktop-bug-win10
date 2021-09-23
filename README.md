@@ -1,5 +1,5 @@
 # Remote-Desktop-bug-win10
-inject code into rdp.exe to correct window size/position back down to where it was after maximize/restore
+inject code into rdp.exe to automatically correct window size/position back down to where it was after maximize/restore
 
 RDP HD hook V4b.ps1 - main program, sits in task bar notification area
 
